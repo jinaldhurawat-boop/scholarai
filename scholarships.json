@@ -1,0 +1,1221 @@
+[
+  {
+    "id": 1,
+    "name": "Maharashtra Merit Scholarship (Sample)",
+    "provider": "Government of Maharashtra (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 800000,
+    "min_academic": 70,
+    "requires": {
+      "state": "Maharashtra"
+    },
+    "amount": "₹20,000 / year",
+    "amount_value": 20000,
+    "deadline_in_days": 20,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Maharashtra students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 2,
+    "name": "Maharashtra OBC Student Support Grant (Sample)",
+    "provider": "Government of Maharashtra (synthetic sample)",
+    "category": "OBC",
+    "income_limit": 350000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Maharashtra"
+    },
+    "amount": "₹15,000 / year",
+    "amount_value": 15000,
+    "deadline_in_days": 35,
+    "docs": [
+      "Category Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for OBC category students from Maharashtra.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 3,
+    "name": "Maharashtra Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Maharashtra (synthetic sample)",
+    "category": "Female",
+    "income_limit": 900000,
+    "min_academic": 50,
+    "requires": {
+      "state": "Maharashtra"
+    },
+    "amount": "₹25,000 / year",
+    "amount_value": 25000,
+    "deadline_in_days": 50,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Maharashtra in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 4,
+    "name": "Karnataka Merit Scholarship (Sample)",
+    "provider": "Government of Karnataka (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 600000,
+    "min_academic": 65,
+    "requires": {
+      "state": "Karnataka"
+    },
+    "amount": "₹22,500 / year",
+    "amount_value": 22500,
+    "deadline_in_days": 65,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Karnataka students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 5,
+    "name": "Karnataka SC Student Support Grant (Sample)",
+    "provider": "Government of Karnataka (synthetic sample)",
+    "category": "SC",
+    "income_limit": 300000,
+    "min_academic": 45,
+    "requires": {
+      "state": "Karnataka"
+    },
+    "amount": "₹17,000 / year",
+    "amount_value": 17000,
+    "deadline_in_days": 80,
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for SC category students from Karnataka.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 6,
+    "name": "Karnataka Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Karnataka (synthetic sample)",
+    "category": "Female",
+    "income_limit": 700000,
+    "min_academic": 54,
+    "requires": {
+      "state": "Karnataka"
+    },
+    "amount": "₹26,500 / year",
+    "amount_value": 26500,
+    "deadline_in_days": 95,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Karnataka in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 7,
+    "name": "Tamil Nadu Merit Scholarship (Sample)",
+    "provider": "Government of Tamil Nadu (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 500000,
+    "min_academic": 60,
+    "requires": {
+      "state": "Tamil Nadu"
+    },
+    "amount": "₹25,000 / year",
+    "amount_value": 25000,
+    "deadline_in_days": 120,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Tamil Nadu students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 8,
+    "name": "Tamil Nadu Minority Student Support Grant (Sample)",
+    "provider": "Government of Tamil Nadu (synthetic sample)",
+    "category": "Minority",
+    "income_limit": 300000,
+    "min_academic": 50,
+    "requires": {
+      "state": "Tamil Nadu"
+    },
+    "amount": "₹19,000 / year",
+    "amount_value": 19000,
+    "deadline_in_days": 28,
+    "docs": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for Minority category students from Tamil Nadu.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 9,
+    "name": "Tamil Nadu Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Tamil Nadu (synthetic sample)",
+    "category": "Female",
+    "income_limit": 600000,
+    "min_academic": 58,
+    "requires": {
+      "state": "Tamil Nadu"
+    },
+    "amount": "₹28,000 / year",
+    "amount_value": 28000,
+    "deadline_in_days": 45,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Tamil Nadu in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 10,
+    "name": "Kerala Merit Scholarship (Sample)",
+    "provider": "Government of Kerala (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 450000,
+    "min_academic": 70,
+    "requires": {
+      "state": "Kerala"
+    },
+    "amount": "₹27,500 / year",
+    "amount_value": 27500,
+    "deadline_in_days": 60,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Kerala students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 11,
+    "name": "Kerala ST Student Support Grant (Sample)",
+    "provider": "Government of Kerala (synthetic sample)",
+    "category": "ST",
+    "income_limit": 280000,
+    "min_academic": 55,
+    "requires": {
+      "state": "Kerala"
+    },
+    "amount": "₹21,000 / year",
+    "amount_value": 21000,
+    "deadline_in_days": 75,
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for ST category students from Kerala.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 12,
+    "name": "Kerala Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Kerala (synthetic sample)",
+    "category": "Female",
+    "income_limit": 550000,
+    "min_academic": 62,
+    "requires": {
+      "state": "Kerala"
+    },
+    "amount": "₹29,500 / year",
+    "amount_value": 29500,
+    "deadline_in_days": 40,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Kerala in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 13,
+    "name": "Gujarat Merit Scholarship (Sample)",
+    "provider": "Government of Gujarat (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 700000,
+    "min_academic": 65,
+    "requires": {
+      "state": "Gujarat"
+    },
+    "amount": "₹30,000 / year",
+    "amount_value": 30000,
+    "deadline_in_days": 90,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Gujarat students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 14,
+    "name": "Gujarat SC Student Support Grant (Sample)",
+    "provider": "Government of Gujarat (synthetic sample)",
+    "category": "SC",
+    "income_limit": 320000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Gujarat"
+    },
+    "amount": "₹23,000 / year",
+    "amount_value": 23000,
+    "deadline_in_days": 25,
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for SC category students from Gujarat.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 15,
+    "name": "Gujarat Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Gujarat (synthetic sample)",
+    "category": "Female",
+    "income_limit": 800000,
+    "min_academic": 50,
+    "requires": {
+      "state": "Gujarat"
+    },
+    "amount": "₹31,000 / year",
+    "amount_value": 31000,
+    "deadline_in_days": 55,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Gujarat in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 16,
+    "name": "Rajasthan Merit Scholarship (Sample)",
+    "provider": "Government of Rajasthan (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 350000,
+    "min_academic": 60,
+    "requires": {
+      "state": "Rajasthan"
+    },
+    "amount": "₹32,500 / year",
+    "amount_value": 32500,
+    "deadline_in_days": 20,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Rajasthan students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 17,
+    "name": "Rajasthan ST Student Support Grant (Sample)",
+    "provider": "Government of Rajasthan (synthetic sample)",
+    "category": "ST",
+    "income_limit": 250000,
+    "min_academic": 45,
+    "requires": {
+      "state": "Rajasthan"
+    },
+    "amount": "₹25,000 / year",
+    "amount_value": 25000,
+    "deadline_in_days": 35,
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for ST category students from Rajasthan.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 18,
+    "name": "Rajasthan Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Rajasthan (synthetic sample)",
+    "category": "Female",
+    "income_limit": 450000,
+    "min_academic": 54,
+    "requires": {
+      "state": "Rajasthan"
+    },
+    "amount": "₹32,500 / year",
+    "amount_value": 32500,
+    "deadline_in_days": 50,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Rajasthan in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 19,
+    "name": "Uttar Pradesh Merit Scholarship (Sample)",
+    "provider": "Government of Uttar Pradesh (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 300000,
+    "min_academic": 55,
+    "requires": {
+      "state": "Uttar Pradesh"
+    },
+    "amount": "₹35,000 / year",
+    "amount_value": 35000,
+    "deadline": "2026-09-20",
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Uttar Pradesh students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 20,
+    "name": "Uttar Pradesh OBC Student Support Grant (Sample)",
+    "provider": "Government of Uttar Pradesh (synthetic sample)",
+    "category": "OBC",
+    "income_limit": 250000,
+    "min_academic": 50,
+    "requires": {
+      "state": "Uttar Pradesh"
+    },
+    "amount": "₹27,000 / year",
+    "amount_value": 27000,
+    "deadline_in_days": 65,
+    "docs": [
+      "Category Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for OBC category students from Uttar Pradesh.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 21,
+    "name": "Uttar Pradesh Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Uttar Pradesh (synthetic sample)",
+    "category": "Female",
+    "income_limit": 400000,
+    "min_academic": 58,
+    "requires": {
+      "state": "Uttar Pradesh"
+    },
+    "amount": "₹34,000 / year",
+    "amount_value": 34000,
+    "deadline_in_days": 80,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Uttar Pradesh in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 22,
+    "name": "West Bengal Merit Scholarship (Sample)",
+    "provider": "Government of West Bengal (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 400000,
+    "min_academic": 60,
+    "requires": {
+      "state": "West Bengal"
+    },
+    "amount": "₹37,500 / year",
+    "amount_value": 37500,
+    "deadline_in_days": 95,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for West Bengal students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 23,
+    "name": "West Bengal Minority Student Support Grant (Sample)",
+    "provider": "Government of West Bengal (synthetic sample)",
+    "category": "Minority",
+    "income_limit": 280000,
+    "min_academic": 55,
+    "requires": {
+      "state": "West Bengal"
+    },
+    "amount": "₹29,000 / year",
+    "amount_value": 29000,
+    "deadline_in_days": 120,
+    "docs": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for Minority category students from West Bengal.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 24,
+    "name": "West Bengal Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of West Bengal (synthetic sample)",
+    "category": "Female",
+    "income_limit": 500000,
+    "min_academic": 62,
+    "requires": {
+      "state": "West Bengal"
+    },
+    "amount": "₹35,500 / year",
+    "amount_value": 35500,
+    "deadline_in_days": 28,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from West Bengal in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 25,
+    "name": "Bihar Merit Scholarship (Sample)",
+    "provider": "Government of Bihar (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 250000,
+    "min_academic": 55,
+    "requires": {
+      "state": "Bihar"
+    },
+    "amount": "₹40,000 / year",
+    "amount_value": 40000,
+    "deadline_in_days": 45,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Bihar students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 26,
+    "name": "Bihar SC Student Support Grant (Sample)",
+    "provider": "Government of Bihar (synthetic sample)",
+    "category": "SC",
+    "income_limit": 220000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Bihar"
+    },
+    "amount": "₹31,000 / year",
+    "amount_value": 31000,
+    "deadline_in_days": 60,
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for SC category students from Bihar.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 27,
+    "name": "Bihar Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Bihar (synthetic sample)",
+    "category": "Female",
+    "income_limit": 350000,
+    "min_academic": 50,
+    "requires": {
+      "state": "Bihar"
+    },
+    "amount": "₹37,000 / year",
+    "amount_value": 37000,
+    "deadline": "2026-09-28",
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Bihar in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 28,
+    "name": "Telangana Merit Scholarship (Sample)",
+    "provider": "Government of Telangana (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 550000,
+    "min_academic": 65,
+    "requires": {
+      "state": "Telangana"
+    },
+    "amount": "₹42,500 / year",
+    "amount_value": 42500,
+    "deadline_in_days": 75,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample merit-and-means scholarship for Telangana students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 29,
+    "name": "Telangana EWS Student Support Grant (Sample)",
+    "provider": "Government of Telangana (synthetic sample)",
+    "category": "EWS",
+    "income_limit": 400000,
+    "min_academic": 45,
+    "requires": {
+      "state": "Telangana"
+    },
+    "amount": "₹33,000 / year",
+    "amount_value": 33000,
+    "deadline_in_days": 40,
+    "docs": [
+      "EWS Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample support grant for EWS category students from Telangana.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 30,
+    "name": "Telangana Girl Student Higher Education Grant (Sample)",
+    "provider": "Government of Telangana (synthetic sample)",
+    "category": "Female",
+    "income_limit": 650000,
+    "min_academic": 54,
+    "requires": {
+      "state": "Telangana"
+    },
+    "amount": "₹38,500 / year",
+    "amount_value": 38500,
+    "deadline_in_days": 90,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for female students from Telangana in higher education.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 31,
+    "name": "Karnataka Disability Learning Grant (Sample)",
+    "provider": "Government of Karnataka (synthetic sample)",
+    "category": "PwD",
+    "income_limit": 300000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Karnataka"
+    },
+    "amount": "₹30,000 / year",
+    "amount_value": 30000,
+    "deadline_in_days": 25,
+    "docs": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample learning grant for students with 40% or more disability from Karnataka.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 32,
+    "name": "Kerala Disability Learning Grant (Sample)",
+    "provider": "Government of Kerala (synthetic sample)",
+    "category": "PwD",
+    "income_limit": 350000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Kerala"
+    },
+    "amount": "₹30,000 / year",
+    "amount_value": 30000,
+    "deadline_in_days": 55,
+    "docs": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample learning grant for students with 40% or more disability from Kerala.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 33,
+    "name": "Bihar Disability Learning Grant (Sample)",
+    "provider": "Government of Bihar (synthetic sample)",
+    "category": "PwD",
+    "income_limit": 250000,
+    "min_academic": 40,
+    "requires": {
+      "state": "Bihar"
+    },
+    "amount": "₹30,000 / year",
+    "amount_value": 30000,
+    "deadline_in_days": 20,
+    "docs": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample learning grant for students with 40% or more disability from Bihar.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 34,
+    "name": "National Open Merit Award (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 1000000,
+    "min_academic": 75,
+    "amount": "₹50,000 total",
+    "amount_value": 50000,
+    "deadline_in_days": 35,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample national merit award open to students from any state.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 35,
+    "name": "National Girls in STEM Grant (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "Female",
+    "income_limit": 800000,
+    "min_academic": 65,
+    "requires": {
+      "stream": "STEM"
+    },
+    "amount": "₹60,000 / year",
+    "amount_value": 60000,
+    "deadline_in_days": 50,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample grant for women studying STEM subjects.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 36,
+    "name": "National First-Generation Scholar Award (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "Merit",
+    "income_limit": 500000,
+    "min_academic": 55,
+    "requires": {
+      "first_gen": true
+    },
+    "amount": "₹35,000 / year",
+    "amount_value": 35000,
+    "deadline_in_days": 65,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample award for students who are the first in their family to attend college.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 37,
+    "name": "National Minority Excellence Award (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "Minority",
+    "income_limit": 450000,
+    "min_academic": 60,
+    "amount": "₹40,000 / year",
+    "amount_value": 40000,
+    "deadline_in_days": 80,
+    "docs": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample national award for minority students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 38,
+    "name": "National Inclusive Learning Grant (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "PwD",
+    "income_limit": 600000,
+    "min_academic": 40,
+    "amount": "₹45,000 / year",
+    "amount_value": 45000,
+    "deadline_in_days": 95,
+    "docs": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample national grant for students with 40% or more disability.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 39,
+    "name": "National EWS Support Grant (Sample)",
+    "provider": "National Education Trust (synthetic sample)",
+    "category": "EWS",
+    "income_limit": 800000,
+    "min_academic": 50,
+    "amount": "₹30,000 / year",
+    "amount_value": 30000,
+    "deadline_in_days": 120,
+    "docs": [
+      "EWS Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "Sample national grant for economically weaker section students.",
+    "note": "SYNTHETIC SAMPLE DATA: invented for testing, not a real scheme. Do not rely on it.",
+    "last_verified": null
+  },
+  {
+    "id": 40,
+    "name": "Reliance Foundation Undergraduate Scholarship",
+    "provider": "Reliance Foundation",
+    "category": "Merit",
+    "income_limit": 1500000,
+    "min_academic": 60,
+    "amount": "Up to ₹2,00,000 over the degree",
+    "amount_value": 50000,
+    "deadline": "2026-10-05",
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.reliancefoundation.org/",
+    "description": "Merit-and-means scholarship for first-year undergraduates in any stream. Needs Class 12 marks of 60% or more and an aptitude test.",
+    "note": "Official Reliance Foundation announcement and college notices confirm the portal, up to 2 lakh for UG, and the 5 Oct 2026 deadline. Income 15 lakh and 60% Class 12 marks come from Reliance text repeated by colleges and news. First-year UG only (not modelled). Confidence: high.",
+    "last_verified": "2026-10-04"
+  },
+  {
+    "id": 41,
+    "name": "PM-USP Central Sector Scheme of Scholarship (CSSS)",
+    "provider": "Ministry of Education (NSP)",
+    "category": "Merit",
+    "income_limit": 450000,
+    "min_academic": 80,
+    "amount": "₹12,000/yr (UG), ₹20,000/yr (PG)",
+    "amount_value": 12000,
+    "deadline_in_days": 30,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.gov.in/public/schemeGuidelines/FAQ_DOHE_CSSS.pdf",
+    "description": "Merit-cum-means scholarship for students above the 80th percentile of their Class 12 board.",
+    "note": "Official FAQ confirms income 4.5 lakh and the 80th percentile rule. Percentile is NOT the same as 80%: min_academic=80 is only an approximation. Deadline unclear (renewals closed 30 Sep 2026); sample date used. Rules checked on the official FAQ. Deadline is a sample date. Confidence: high (rules).",
+    "last_verified": "2026-10-04"
+  },
+  {
+    "id": 42,
+    "name": "Post-Matric Scholarship for SC Students",
+    "provider": "Ministry of Social Justice & Empowerment (NSP)",
+    "category": "SC",
+    "income_limit": 250000,
+    "min_academic": 0,
+    "amount": "Course fees + maintenance allowance",
+    "amount_value": 0,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Domicile",
+      "Mark Sheets"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "Fee reimbursement and maintenance allowance for SC students studying after Class 10.",
+    "note": "Income limit is 2.5 lakh today; the government has said it plans to raise it to 4.5 lakh. No minimum percentage was found (0 used). Deadline from secondary sources. Confidence: medium.",
+    "last_verified": null
+  },
+  {
+    "id": 43,
+    "name": "Post-Matric Scholarship for ST Students",
+    "provider": "Ministry of Tribal Affairs (NSP)",
+    "category": "ST",
+    "income_limit": 250000,
+    "min_academic": 0,
+    "amount": "Course fees + maintenance allowance",
+    "amount_value": 0,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Caste Certificate",
+      "Income Certificate",
+      "Domicile",
+      "Mark Sheets"
+    ],
+    "source_url": "https://scholarships.gov.in/public/schemeGuidelines/HP_state_scheme/Centrally%20Sponsored%20Scheme%20%20of%20Post%20Matric%20Scholarship%20Scheme%20for%20ST%20Students_scheme.pdf",
+    "description": "Support for ST students from Class 11 up to postgraduate level.",
+    "note": "Income limit 2.5 lakh confirmed by the official scheme regulation and a PIB release (Dec 2025). No minimum percentage found (0 used). Deadline from secondary sources. Confidence: high (rules), medium (deadline).",
+    "last_verified": "2026-10-04"
+  },
+  {
+    "id": 44,
+    "name": "PM YASASVI Post-Matric Scholarship (OBC/EBC/DNT)",
+    "provider": "Ministry of Social Justice & Empowerment (NSP)",
+    "category": "OBC",
+    "income_limit": 250000,
+    "min_academic": 0,
+    "amount": "Varies by course level",
+    "amount_value": 0,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Category Certificate",
+      "Income Certificate",
+      "Domicile",
+      "Mark Sheets"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "Post-matric support for OBC, EBC and DNT students whose family income is up to 2.5 lakh.",
+    "note": "Sources agree on the 2.5 lakh limit but give very different amounts, so amount is left as 'Varies'. Confidence: medium.",
+    "last_verified": null
+  },
+  {
+    "id": 45,
+    "name": "AICTE Pragati Scholarship for Girls",
+    "provider": "AICTE (NSP)",
+    "category": "Female",
+    "income_limit": 800000,
+    "min_academic": 0,
+    "requires": {
+      "stream": "STEM"
+    },
+    "amount": "₹50,000 / year",
+    "amount_value": 50000,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "For girls admitted to first year (or lateral entry) of an AICTE-approved technical degree or diploma. Maximum two girls per family.",
+    "note": "Many sources agree on 8 lakh, 50,000/yr and 31 Oct 2026. 'requires STEM' is an approximation of 'AICTE technical course'. First-year/lateral entry and 2-girls-per-family are not modelled. Confidence: high.",
+    "last_verified": null
+  },
+  {
+    "id": 46,
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojana (EBC)",
+    "provider": "Govt. of Maharashtra (MahaDBT)",
+    "category": "Domicile",
+    "income_limit": 800000,
+    "min_academic": 0,
+    "amount": "50% to 100% of tuition and exam fees",
+    "amount_value": 0,
+    "deadline_in_days": 45,
+    "docs": [
+      "Domicile",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A7F4D327BDEB7125DE0BA4AE1C51180C272281017EBEF6F7C",
+    "description": "Fee reimbursement for Maharashtra students of economically weaker families in professional courses admitted through CAP.",
+    "note": "MahaDBT confirms income up to 8 lakh, Maharashtra domicile, 50% fees for male and 100% for female students. Deadline not found (sample date). CAP admission and the 2-children limit are not modelled. Rules checked on the MahaDBT page. Deadline is a sample date. Confidence: high (rules).",
+    "last_verified": "2026-10-04"
+  },
+  {
+    "id": 47,
+    "name": "Post-Matric Scholarship for Students with Disabilities",
+    "provider": "Dept. of Empowerment of PwD (NSP)",
+    "category": "PwD",
+    "income_limit": 250000,
+    "min_academic": 0,
+    "amount": "Fees up to ₹1.4 lakh/yr + allowances",
+    "amount_value": 0,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Disability Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "For students with 40% or more benchmark disability studying after Class 10.",
+    "note": "Your old data said income 8 lakh; sources say 2.5 lakh. The disability must be 40% or more, so the profile checkbox now says so. Confidence: medium-high.",
+    "last_verified": null
+  },
+  {
+    "id": 48,
+    "name": "Post-Matric Scholarship for Minorities",
+    "provider": "Ministry of Minority Affairs (NSP)",
+    "category": "Minority",
+    "income_limit": 200000,
+    "min_academic": 50,
+    "amount": "Course fees + maintenance allowance",
+    "amount_value": 0,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "For students of notified minority communities from Class 11 to postgraduate level with at least 50% marks.",
+    "note": "Replaces the old 'EWS Higher Education Grant', which matched no real scheme. Income 2 lakh and 50% marks come from secondary sources. Confidence: medium.",
+    "last_verified": null
+  },
+  {
+    "id": 49,
+    "name": "Infosys Foundation STEM Stars Scholarship",
+    "provider": "Infosys Foundation",
+    "category": "Female",
+    "income_limit": 800000,
+    "min_academic": 0,
+    "requires": {
+      "stream": "STEM"
+    },
+    "amount": "Up to ₹1,00,000 / year",
+    "amount_value": 100000,
+    "deadline_in_days": 45,
+    "docs": [
+      "Aadhaar Card",
+      "Income Certificate",
+      "College Certificate",
+      "Mark Sheets"
+    ],
+    "source_url": null,
+    "description": "For female undergraduates in STEM degrees at recognised colleges.",
+    "note": "News reports of Infosys Foundation's press release agree on: women only, up to 1 lakh a year, family income up to 8 lakh, first-year STEM degrees (some years also second-year). No minimum marks were stated, and 2026-27 dates were not found (sample date). Official page not located. Confidence: medium.",
+    "last_verified": null
+  },
+  {
+    "id": 50,
+    "name": "Merit-cum-Means Scholarship for Minorities",
+    "provider": "Ministry of Minority Affairs (NSP)",
+    "category": "Minority",
+    "income_limit": 250000,
+    "min_academic": 50,
+    "amount": "₹20,000 fees + ₹5,000 to ₹10,000 allowance",
+    "amount_value": 20000,
+    "deadline": "2026-10-31",
+    "docs": [
+      "Minority Certificate",
+      "Income Certificate",
+      "Mark Sheets",
+      "Bank Details"
+    ],
+    "source_url": "https://scholarships.gov.in",
+    "description": "For minority students in professional and technical courses with at least 50% marks.",
+    "note": "Professional/technical course restriction is not modelled. Confidence: medium.",
+    "last_verified": null
+  },
+  {
+    "id": 51,
+    "name": "Tamil Nadu First Graduate Scheme",
+    "provider": "Government of Tamil Nadu",
+    "category": "Merit",
+    "income_limit": 250000,
+    "min_academic": 0,
+    "requires": {
+      "first_gen": true,
+      "state": "Tamil Nadu"
+    },
+    "amount": "Tuition support (varies)",
+    "amount_value": 0,
+    "deadline_in_days": 60,
+    "docs": [
+      "First Graduate Certificate",
+      "Income Certificate",
+      "Domicile",
+      "Bank Details"
+    ],
+    "source_url": null,
+    "description": "For Tamil Nadu students who are the first in their family to attend college.",
+    "note": "Replaces the old 'First-Generation Learner Scholarship', which matched no national scheme. Sources disagree on whether there is an income limit. Confidence: low. Find the official tn.gov.in page.",
+    "last_verified": null
+  }
+]
